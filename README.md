@@ -5,7 +5,7 @@
 ## Install
 
 ```
-asdf plugin-add yajsv https://github.com/jValdron/asdf-yajsv.git
+asdf plugin-add yajsv https://github.com/DRE-IaC/asdf-yajsv.git
 ```
 
 ## Use
