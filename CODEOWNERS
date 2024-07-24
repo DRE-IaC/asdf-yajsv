@@ -1,0 +1,9 @@
+
+# Define owners for all files in the repository
+* @DRE-IaC/iac
+
+# Define owners for workflow files
+.github/workflows/* @DRE-IaC/iac
+
+# Define owners for the CODEOWNERS file itself
+.github/CODEOWNERS @DRE-IaC/iac
